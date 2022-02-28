@@ -1,0 +1,12 @@
+td{
+	width: 100px;
+	/* text-align: ; */
+	/* border: 1px black; */
+}
+th{
+	text-align: center;
+	/* background-color: lightgrey; */
+}
+tr > th{
+	background-color: lightgrey;
+}
